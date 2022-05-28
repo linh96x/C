@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\tatli\onedrive\documents\code\hocc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1588948324 source:c:\users\tatli\onedrive\documents\code\hocc\cong2songuyen.c
+	<stdio.h>
+
+1590673612 source:c:\users\tatli\onedrive\documents\code\hocc\12345.c
+	<stdio.h>
+	<conio.h>
+
